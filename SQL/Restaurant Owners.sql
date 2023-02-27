@@ -156,3 +156,4 @@ SELECT
 FROM orders_20220120 AS os
 JOIN menu AS m ON m.menu_id = os.menu_id
 JOIN promotion AS pro ON pro.promotion_id = os.promotion_id;
+ 
