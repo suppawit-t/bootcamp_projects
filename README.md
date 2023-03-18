@@ -1,4 +1,4 @@
-# Data Science Bootcamp Projects
+# Data Science Bootcamp Projects 🏕️
 
 [Data Science Bootcamp Batch 6](https://datarockie.com/data-science-bootcamp/) with `adToy` - [DataRockie](https://www.facebook.com/datarockie)
 
