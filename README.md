@@ -26,6 +26,8 @@ We learn 10 sprints during 4-month intensive program. These are projects and hom
 # Intro to Classical Machine Learning
 
 # Intro to Python
+- [Pao Ying Chub.ipynb](https://github.com/suppawit-t/bootcamp_projects/blob/main/Python/Python%20Homework%20-%20Pao%20Ying%20Chub.ipynb) - An interactive `Rock-Paper-Scissors` game using `Python` 
+- [ATM.ipynb](https://github.com/suppawit-t/bootcamp_projects/blob/main/Python/Python%20Homework%20-%20ATM.ipynb) - An ATM `class` (Object-Oriented Programming) containing 5 methods as ATM functions to interact with users
 
 # Essential Python for Data Analyst
 
