@@ -21,6 +21,7 @@ We learn 10 sprints during 4-month intensive program. These are projects and hom
 - [NYC_Flights_2013](https://github.com/suppawit-t/bootcamp_projects/blob/main/R/NYC_Flight_2013.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in R
 
 # Data Visualization
+- [HR dataset.ipynb](https://github.com/suppawit-t/bootcamp_projects/blob/main/R/HR%20dataset.ipynb) - Creating 4 charts to visualize the data queried from the `HR dataset` using the `ggplot2` package in `R`
 
 # Statistics
 
